@@ -1,6 +1,6 @@
 #### This is a very popular game. You can play it anywhere - at home, on the road, in line, in class :-)
 
-#### The essence of the game - you need to make a chain of words on a given topic.
+#### The essence of the game - you need to make a chain of words on a given topic. (well, not in the bot..)
 
 ## Words game rules
 

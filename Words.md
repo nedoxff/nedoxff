@@ -14,7 +14,7 @@ Some words in English are very rare, for example words that start on letter X. S
 
 letterbox --> o, **not x**
 
-That also relates to Russian. For example, **there aren't any words** thats start with: 
+That also relates to Russian. For example, **there aren't any words** that start with: 
 
 - Ь
 - Ы

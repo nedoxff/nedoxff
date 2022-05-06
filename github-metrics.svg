@@ -517,7 +517,7 @@ I edited too much files to describe this commit.
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">fb97ba6c</span>
-                            <span class="code">Features/ObjectionLol/Helper/MusicTag.cs</span>
+                            <span class="code">Features/ObjectionLol/Wrapper/CourtRecord.cs</span>
                             <span class="code"><span class="snippet additions">++7</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
@@ -525,14 +525,14 @@ I edited too much files to describe this commit.
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,7 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">namespace RandomGameBot.Features.ObjectionLol.Helper;<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">//TODO: Implement music. Not yet implemented in the node.js renderer.<br /></span><span class="token prefix inserted">+</span><span class="token line">public class MusicTag<br /></span><span class="token prefix inserted">+</span><span class="token line">{<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">}<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,7 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">namespace RandomGameBot.Features.ObjectionLol.Wrapper;<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">public class CourtRecord<br /></span><span class="token prefix inserted">+</span><span class="token line">{<br /></span><span class="token prefix inserted">+</span><span class="token line">public List&lt;object&gt; evidence;<br /></span><span class="token prefix inserted">+</span><span class="token line">public List&lt;object&gt; profiles;<br /></span><span class="token prefix inserted">+</span><span class="token line">}<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 May 2022, 00:13:37 (timezone Europe/Moscow) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 7 May 2022, 01:14:45 (timezone Europe/Moscow) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

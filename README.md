@@ -19,11 +19,17 @@ currently, i'm making [impoexpo](https://github.com/IT-FAMCS/impoexpo) *(and its
 
 occasionally, i also draw animal people:
 
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem">
-    <img style="width: 45%;" src="img/art/2.jpg"/>
-    <img style="width: 45%;" src="img/art/3.gif"/>
-    <img style="width: 57.5%;" src="img/art/1.jpg"/>
-    <img style="width: 35%;" src="img/art/4.gif"/>
+<div align="center">
+  <div style="display: inline-block; margin: 10px;">
+    <img src="img/art/1.jpg" width="260px">
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="img/art/2.jpg" width="200px">
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="img/art/3.gif" width="200px">
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="img/art/4.gif" width="200px">
+  </div>
 </div>
-
-the image gallery is subject to change.

@@ -5,7 +5,7 @@ hi! i'm nedo, although due to the shortness of this nickname, i often appear as 
 - i'm eastern european (ru/en)
 - i use he/him
 - i'm a first-year cybersecurity student
-- my fursona is a [pine marten](https://en.wikipedia.org/wiki/European_pine_marten)! :3
+- my fursona is a [pine marten](https://en.wikipedia.org/wiki/European_pine_marten) :3
 
 ## code
 
@@ -19,22 +19,11 @@ currently, i'm making [impoexpo](https://github.com/IT-FAMCS/impoexpo) *(and its
 
 occasionally, i also draw animal people:
 
-<table align="center">
- <tr>
-  <td width="500" valign="top">
-    <img src="img/art/3.gif" style="width: 100%">
-    <br><br>
-    <img src="img/art/1.jpg" style="width: 100%">
-  </td>
-  
-  <td width="500" valign="top">
-    <img src="img/art/2.jpg" style="width: 100%">
-    <br><br>
-    <p align="center">
-      <img src="img/art/4.gif" width="200">
-    </p>
-  </td>
- </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 0.5rem">
+    <img style="width: 45%;" src="img/art/2.jpg"/>
+    <img style="width: 45%;" src="img/art/3.gif"/>
+    <img style="width: 57.5%;" src="img/art/1.jpg"/>
+    <img style="width: 35%;" src="img/art/4.gif"/>
+</div>
 
 the image gallery is subject to change.

@@ -19,13 +19,9 @@ currently, i'm making [impoexpo](https://github.com/IT-FAMCS/impoexpo) *(and its
 
 occasionally, i also draw animal people:
 
-<div style="display: inline-block; margin: 10px;">
+<div align="center">
     <img src="img/art/1.jpg" width="260px">
-</div>
-<div style="display: inline-block; margin: 10px;">
     <img src="img/art/2.jpg" width="200px">
-</div>
-<div style="display: inline-block; margin: 10px;">
     <img src="img/art/3.gif" width="200px">
 </div>
 <div align="center">

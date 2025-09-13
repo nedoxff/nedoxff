@@ -1,12 +1,5 @@
 hi! i'm nedo, although due to the shortness of this nickname, i often appear as nedoxff.
 
-## fun facts
-
-- i'm eastern european (ru/en)
-- i use he/him
-- i'm a first-year cybersecurity student
-- my fursona is a [pine marten](https://en.wikipedia.org/wiki/European_pine_marten) :3
-
 ## code
 
 i develop stuff when i feel like it, and it has been this way since i was ~8 y/o. my primary language is C#, but i've been experimenting with web development and web design for quite some time now. i've also done some professional work as a full-stack software engineer, and can do a bunch of stuff if i have the motivation to study it.
